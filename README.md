@@ -1,5 +1,6 @@
 # Best Buy – Store Front
 
+
 This is the customer-facing web application for the **Best Buy Cloud-Native Final Project**.
 
 The Store Front allows customers to browse products and place orders.  

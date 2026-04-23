@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
+        <img src="/https://cdn.freebiesupply.com/logos/large/2x/best-buy-logo-black-and-white.png" alt="Algonquin Pet Store Logo">
       </a>
     </div>
     <button class="hamburger" @click="toggleNav">
